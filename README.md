@@ -1,4 +1,4 @@
 # hello-world
 The traditional Hello World application for GitHub
-/p
+<p>
 Larry here. Just learning how to use GitHub.
